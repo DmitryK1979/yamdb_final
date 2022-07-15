@@ -1,4 +1,4 @@
-# [YaMDb Status] (https://github.com/DmitryK1979/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![YaMDb Status](https://github.com/DmitryK1979/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # YaMDb
 ### Проект YaMDb собирает отзывы пользователей на произведения. 
