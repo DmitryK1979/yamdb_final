@@ -1,4 +1,4 @@
-# https://github.com/DmitryK1979/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+![YaMDb Status](https://github.com/DmitryK1979/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # YaMDb
 ### Проект YaMDb собирает отзывы пользователей на произведения. 
@@ -53,5 +53,5 @@ docker-compose exec web python manage.py update
 ```
 Подробная документация по API с примерами расположена:
 ```
-(http://127.0.0.1:8000/redoc/)
+http://127.0.0.1:8000/redoc/
 
